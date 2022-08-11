@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    google_search_results (2.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  google_search_results
+
+BUNDLED WITH
+   1.17.2
