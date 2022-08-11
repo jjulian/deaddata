@@ -1,0 +1,831 @@
+{
+  "search_metadata": {
+    "id": "62f46e647bea274bd0b4589d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/74ca233e4e5c2832/62f46e647bea274bd0b4589d.json",
+    "created_at": "2022-08-11 02:50:12 UTC",
+    "processed_at": "2022-08-11 02:50:12 UTC",
+    "google_url": "https://www.google.com/search?q=1970-04-03+April+03%2C+1970+Armory+Fieldhouse%2C+University+of+Cincinnati%2C+Cincinnati%2C+OH&oq=1970-04-03+April+03%2C+1970+Armory+Fieldhouse%2C+University+of+Cincinnati%2C+Cincinnati%2C+OH&tbm=isch&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/74ca233e4e5c2832/62f46e647bea274bd0b4589d.html",
+    "total_time_taken": 2.78
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "1970-04-03 April 03, 1970 Armory Fieldhouse, University of Cincinnati, Cincinnati, OH",
+    "google_domain": "google.com",
+    "device": "desktop",
+    "tbm": "isch"
+  },
+  "search_information": {
+    "image_results_state": "Results for exact spelling",
+    "query_displayed": "1970-04-03 April 03, 1970 Armory Fieldhouse, University of Cincinnati, Cincinnati, OH"
+  },
+  "images_results": [
+    {
+      "position": 1,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451950cc1a1f446fe6d5d764c914aa1c69087bdbac6b9108184.jpeg",
+      "source": "en.wikipedia.org",
+      "title": "Armory Fieldhouse - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Armory_Fieldhouse",
+      "original": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Armory+Fieldhouse&revid=1094460704&groups=_bee10b7581c5ffb546aad88204f3829a65683522",
+      "is_product": false
+    },
+    {
+      "position": 2,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c9ad78de62b726a78cc23fb0798c701ee.jpeg",
+      "source": "facebook.com",
+      "title": "GoBearcats - Armory Fieldhouse was home to the #Bearcats from 1954-1976.  Cincinnati Bearcats Men's Basketball posted a 247-29 (.895) record at the  arena. 😤 #throwbackthursday | Facebook",
+      "link": "https://www.facebook.com/GoBearcats/photos/a.78704652716/10157636420912717/?type=3",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157636420912717",
+      "is_product": false
+    },
+    {
+      "position": 3,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e9104510aeec952d10a2a8f146f7c1f3dcf12684443e072ee73fd4b.jpeg",
+      "source": "digicol.lib.depaul.edu",
+      "title": "DePaulia (DePaul University, Chicago, IL), 1970-04-03 - DePaul University  Student Newspapers - DePaul University Library Digital Collections",
+      "link": "https://digicol.lib.depaul.edu/digital/collection/p16106coll4/id/3439/",
+      "original": "https://digicol.lib.depaul.edu/digital/api/singleitem/image/p16106coll4/3439/default.jpg",
+      "is_product": false
+    },
+    {
+      "position": 4,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451ccc7657ad6ce0d6e7057ffe8f4a9c828827d4f7875212089.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "is_product": false
+    },
+    {
+      "position": 5,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e91045196c8884069209d863263ab7c6b2640e3c52276fd9976daab.jpeg",
+      "source": "gratefuldeadoftheday.com",
+      "title": "Dead of the Day: April 3, 1970 | Grateful Dead of the Day",
+      "link": "https://gratefuldeadoftheday.com/04-03-1970",
+      "original": "https://gratefuldeadoftheday.com/sites/default/files/04-03-70.jpg",
+      "is_product": false
+    },
+    {
+      "position": 6,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451b8263f2d9b6ecad79b31cee4c04d9bb989f3780a81176f11.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "is_product": false
+    },
+    {
+      "position": 7,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451c524eee30cd951ceba7c45951126303ee6252f25834ff21b.jpeg",
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-X2zv3VF/1/6945089d/M/img656%20copy-M.jpg",
+      "is_product": false
+    },
+    {
+      "position": 8,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451400b16462e36f928f281348cfcfe3d24b5a1c3c157f82d03.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "is_product": false
+    },
+    {
+      "position": 9,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451c9d444778b3fd38f4a94b1be74d5240b538f17980b3eb83a.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 10,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e91045183e6d9e9fe9aacae9ab023d34e01c2feafae050798e504b5.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 11,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c970d5c2295ebbb4bb77f0022d787029a.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 12,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c571b6ea251ae4b5ca7b9868c82816bb3.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 13,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c3c024eaf7fd9daa8646ad78f3283bfa9.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "is_product": false
+    },
+    {
+      "position": 14,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c9230a06cb9dd3689c7cf466e7c48af9d.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 15,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84cdadace2b2f1f2db90daf8584308b6cba.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 16,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c3a6f20d1d3372ee3e77960da827b2aba.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "is_product": false
+    },
+    {
+      "position": 17,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c04aa3b1130c1d69210dc8ce101b1a640.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "is_product": false
+    },
+    {
+      "position": 18,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84c6f037827a7c09ad6966c81f3c89e0915.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "is_product": false
+    },
+    {
+      "position": 19,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84cf905a7ca418cd9fe723e0287fd675b88.jpeg",
+      "source": "dead.net",
+      "title": "Field House - April 3, 1970 | Grateful Dead",
+      "link": "https://www.dead.net/show/april-3-1970",
+      "original": "https://www.dead.net/sites/g/files/g2000007851/files/styles/merch_image_600_600/public/dead_site_files/images/19700403_0396.jpg?itok=Yb_3ecrF",
+      "is_product": false
+    },
+    {
+      "position": 20,
+      "thumbnail": "https://serpapi.com/searches/62f46e647bea274bd0b4589d/images/794f769c2e910451eddacf78d96df84cb7cf8847b86eb668c0f61f159473bc18.jpeg",
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "is_product": false
+    },
+    {
+      "position": 21,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIKB1n3-4oeN0UV5-MikGazpWT3-to4osmQ&usqp=CAU",
+      "original": "x-raw-image:///52c8ad71b6b81468f5c9ba624e41c0731cae7d3db4a99bce01ff5b726ddb98a6"
+    },
+    {
+      "position": 22,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLCiM45EHvDI_-BVyAxN3Le-TCinZosdC1A&usqp=CAU",
+      "original": "x-raw-image:///a0e44eb25c2b141f00c1511edaff3d3f45bbcdb2309cd6151205baa88c6508c4"
+    },
+    {
+      "position": 23,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LR647hZk6ix-Kd-sPZe7fh0OEC63kqDNjA&usqp=CAU",
+      "original": "x-raw-image:///295fd8c1748d8727b7635eeeba4647be8773e91d339b3e68fe73be4f847cb188"
+    },
+    {
+      "position": 24,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hE3RrI8umkzvCN_gWufAm-9gQspcJU6arA&usqp=CAU",
+      "original": "x-raw-image:///81f2a8da4c58ef92d10de873c5b733882a49f47032fc576664ed937e4ad4782c"
+    },
+    {
+      "position": 25,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdDjjVW6ov92jooBa9YqnSURpYmHlKlgmB-w&usqp=CAU",
+      "original": "x-raw-image:///0d908396416ffa159bf9df91cc94af922ad46d1d91799343a9a2ffd8e855f1d2"
+    },
+    {
+      "position": 26,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDDvVxxftpSdRPJ0O_ArR6kOWLtTwf1xKOA&usqp=CAU",
+      "original": "x-raw-image:///c8c58bbc1df84a8b529c95f6b82349946bd5fea3e9876918d634530daa4a4fe1"
+    },
+    {
+      "position": 27,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7F26ITXOuGgHDqwmxw5_jtTfo9PA1QtZ5Q&usqp=CAU",
+      "original": "x-raw-image:///661b273e81c16e9acb315d39c37e4fa37742fd787aacccaf0a5a4891021b72c3"
+    },
+    {
+      "position": 28,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3J-kwNdoSmR0EO2jAwbAmty5DiOAcKvZ4g&usqp=CAU",
+      "original": "x-raw-image:///b983b9012b3f8311269e89cfcbff37da99d5a6aa0d8bfd456cf8f7829fd3669b"
+    },
+    {
+      "position": 29,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5x7hnTr4Tt7glydhrcFHeZZNJIHbsCYBAg&usqp=CAU",
+      "original": "x-raw-image:///7c78314711d0fde808a3739e83dd97d957950d06772eac5b08464d8413fd4300"
+    },
+    {
+      "position": 30,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuT2r_EdDEYLLkpgEeGabvlYH2qxcrGBl1w&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-GX8NGmM/2/d527f791/L/img655-L.jpg"
+    },
+    {
+      "position": 31,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZXSzyzFkCxw7x_2OyapBNeiYkt-JeEJvVg&usqp=CAU",
+      "original": "x-raw-image:///4ef8b4130bb424ed8d5de0fa8f13183681e2bd0cefc957ba4122ea2c2ddcbbfb"
+    },
+    {
+      "position": 32,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-t4lD2EZiCdgdluSBqOzh9W6448J_gBKTEQ&usqp=CAU",
+      "original": "x-raw-image:///ba5b19bb3cc265b16479f834055c4d5ea1b67ff7d83f339f2041927187019278"
+    },
+    {
+      "position": 33,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLLXFi7eXkgW96EZKAgp-y43hV9ALN3l1H6g&usqp=CAU",
+      "original": "x-raw-image:///cf42deae252b9829cce28003a630dd2e537fee44137f040b5076ed3c370a7004"
+    },
+    {
+      "position": 34,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfclN6HQZFZctEpCetMzUktI8qyhP1e-wgg&usqp=CAU",
+      "original": "x-raw-image:///8493b15946a4fa6788e72d01d416cd300172b06a9d0b24a7f8e009747058bbc0"
+    },
+    {
+      "position": 35,
+      "source": "alumni.uc.edu",
+      "title": "Class of 1970 | University Of Cincinnati",
+      "link": "https://alumni.uc.edu/campaigns/class-of-1970.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaU0e4x8Q1TpjvTAMT4k75keGAXH-WN1Ig5g&usqp=CAU",
+      "original": "https://www.uc.edu/content/dam/uc/campaigns/alumni/class-of-1970/Football.JPG"
+    },
+    {
+      "position": 36,
+      "source": "ucdirectory.uc.edu",
+      "title": "UC Directory | University Of Cincinnati",
+      "link": "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=ARMORY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgew81K9t6FH8nEBcvU41LrEdjE6_-d1B1w&usqp=CAU",
+      "original": "https://ucdirectory.uc.edu/images/ARMORY.jpg"
+    },
+    {
+      "position": 37,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLa27G3neHdj8ZKPIfHsjQ0IWXv-Y6wnRdcw&usqp=CAU",
+      "original": "x-raw-image:///6ecc074db4e043f443aa0bf4a21cc0407976a27da45dbe1275c1349e443bbd0f"
+    },
+    {
+      "position": 38,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9vGj5QsHQ-Q5jwwyBhxi1eJoXkn3_yK38A&usqp=CAU",
+      "original": "x-raw-image:///a9965a896c7615765dd40867435b435433195ff5fc7858d4316df7b4ec182dae"
+    },
+    {
+      "position": 39,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhqxavhYoiZpkrrHUYUVNPzJGEujJEIsv-g&usqp=CAU",
+      "original": "x-raw-image:///c46f3b58c864dd3b9b0b1e94c24928ded6d642d65c0ba7a5f4b0bdb21345294f"
+    },
+    {
+      "position": 40,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6ydKIBddTh-SemSvtYkX2m3HkkhhOlSfGQ&usqp=CAU",
+      "original": "x-raw-image:///6989b3eba0ec921ed5c65c258d1409554a84a448df0a40d42226a47b940c0938"
+    },
+    {
+      "position": 41,
+      "source": "en.wikipedia.org",
+      "title": "1960–61 Cincinnati Bearcats men's basketball team - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/1960%E2%80%9361_Cincinnati_Bearcats_men%27s_basketball_team",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf__L-AJuOW1v_0F-RsvBuFT0yJK1Abskq4w&usqp=CAU",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1961_Cincinnati_Bearcats.jpg"
+    },
+    {
+      "position": 42,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjEStQxe2CfklvAS_CbB4vhM9nrIBTV21dQ&usqp=CAU",
+      "original": "x-raw-image:///5d73a6898013ed6d607b84f1ae509e32aedefa6bf1fb9618a269848df9aeffec"
+    },
+    {
+      "position": 43,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOLE3SNzeks49HXcLHYKh-RKK7psEAHbXIw&usqp=CAU",
+      "original": "x-raw-image:///ea53a99dbd8ff59b0640753cc957b0e27e1dad905bbcd5345cb8bd5b8f9cdf29"
+    },
+    {
+      "position": 44,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQWFy4T3b7FdAXOD--SQWCU-Yxb7088NUgLQ&usqp=CAU",
+      "original": "x-raw-image:///4aa6b53c345980e23a16ea1f526338faaf9db2cf2e3971d0bea0ece0581c6c33"
+    },
+    {
+      "position": 45,
+      "source": "alchetron.com",
+      "title": "Armory Fieldhouse - Alchetron, The Free Social Encyclopedia",
+      "link": "https://alchetron.com/Armory-Fieldhouse",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQADzdZ8QX32b4DovxHJAdcwqamodqKibzhUw&usqp=CAU",
+      "original": "https://alchetron.com/cdn/armory-fieldhouse-faf6e19d-6224-4dd3-b438-b8a3f5b6ab7-resize-750.jpeg"
+    },
+    {
+      "position": 46,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfgZ0NkjtW3koIqcPzIgXZlqyBAJb8BH0Bw&usqp=CAU",
+      "original": "x-raw-image:///ccd39a731e3a57c81452f7b2afb15116b791508dd64a08cd57c870da3a58e296"
+    },
+    {
+      "position": 47,
+      "source": "magazine.uc.edu",
+      "title": "UC Celebrates Basketball's Golden Age, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/1210/sports.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6Q4HHhlTUs6nh8MvYXvro7VnIqnY6Nx9eQ&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/1210/sports5.jpg"
+    },
+    {
+      "position": 48,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_5ureRXvx-iY5pbD-FZtuwJwo1BYq-OeoA&usqp=CAU",
+      "original": "x-raw-image:///922a5d4215a04abffa3ef97f910a900f730e6de28d1f22e39a853740b970f9fd"
+    },
+    {
+      "position": 49,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJhgfgpn-lOFB1tmZVnt8oZnZgFYIo6PjQw&usqp=CAU",
+      "original": "x-raw-image:///e0030a134228e181fa0affa93f44f0896c2fa2f28620ce691ddef68b9e085093"
+    },
+    {
+      "position": 50,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6LfpOQ9p_yovKqFgo5hLXY-XbeBADFINWag&usqp=CAU",
+      "original": "x-raw-image:///e9b9d410c9a0a00cdfe6a856ab0d18ac621e8fd18fd15eb7f46875f885f052c7"
+    },
+    {
+      "position": 51,
+      "source": "pinterest.com",
+      "title": "Pin page",
+      "link": "https://www.pinterest.com/pin/152278031134648994/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeS_YvxqaW7bu62OA4zw74ybo7uZZwho7iqQ&usqp=CAU",
+      "original": "https://i.pinimg.com/736x/22/9a/33/229a3324935c5cda8a1f1f90b6719ff0.jpg"
+    },
+    {
+      "position": 52,
+      "source": "magazine.uc.edu",
+      "title": "30 years of change at the University of Cincinnati, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/0310/thenandnow.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3onz0FhlvHuiSFHEYA3KvRg5zzwWeV2S8SQ&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/0310/48_large.jpg"
+    },
+    {
+      "position": 53,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXq7pW3T5PTxMRMYifa3nHUnYU2mPjJFuzOw&usqp=CAU",
+      "original": "x-raw-image:///24b58184b8bef177bcd8f52a33fbb18b7d2f94a9e43d87957cea3cb9b5bfeba5"
+    },
+    {
+      "position": 54,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsLlbdA94g2XgrQB8G4L_cz3NTmV7duyqDg&usqp=CAU",
+      "original": "x-raw-image:///84c228a222c8ca89e7e3f1e1f861723bbd23785e0c79e9bf8999df5a18ae3e2f"
+    },
+    {
+      "position": 55,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWeGdaOLQ_Bl6KhlDmGCu8QtIsN34cvj6lQ&usqp=CAU",
+      "original": "x-raw-image:///b771a9038ae89696b2b4db76d9663601c2422fb773a3ef8fc0fd9ad76035f513"
+    },
+    {
+      "position": 56,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8IxwUpoSEXy8HkuIVX48HjFhBd8kritojSQ&usqp=CAU",
+      "original": "x-raw-image:///015c0fef86d85d503dd9a161077ae9aea144ee2205a2acfe1f803f2916cf36a9"
+    },
+    {
+      "position": 57,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7iL5PL5x8tSbyVtKxR7pNg4QBtdWmnSMSA&usqp=CAU",
+      "original": "x-raw-image:///f6e5afabafce946752100bfb7e4550d1c0169079c2d9219795352bf5b20aa565"
+    },
+    {
+      "position": 58,
+      "source": "mapcarta.com",
+      "title": "Armory Fieldhouse Map - Hamilton County, United States - Mapcarta",
+      "link": "https://mapcarta.com/21356554",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0olP84qudVcJs1smGozPebxopd81naZSq-Q&usqp=CAU",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nippert_Stadium%2C_September_2015.JPG/8976px-Mapcarta.jpg"
+    },
+    {
+      "position": 59,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNehvf16sL5N0Xhc5f4ZAxs16RTk5QFKbfkA&usqp=CAU",
+      "original": "x-raw-image:///140e972530db70f2f77c31164858d9a1c07a1ef4e45c154c617dd2049f398991"
+    },
+    {
+      "position": 60,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCi7a6YYR1yH7i-v66DydvRKgZw7NUL2PjgA&usqp=CAU",
+      "original": "x-raw-image:///ebc12d31aa43feff7dc8cd09aaaabaef693555566cfa80dbf9c533bfc5201070"
+    },
+    {
+      "position": 61,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWorHcakLWTygNZGwUGAiBMzHJZpOT4R84A&usqp=CAU",
+      "original": "x-raw-image:///27b00184aa45b8237e0c51d290c67329015e034622f6ea0dc4bb4f4bf9b0771a"
+    },
+    {
+      "position": 62,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduBljeg3igQR15V6-09J73AJjC_PfdUdeAw&usqp=CAU",
+      "original": "x-raw-image:///450cfeda956066051c70f5d2656e3a95def5064fec598ec80b4d28a37275bd32"
+    },
+    {
+      "position": 63,
+      "source": "homefieldapparel.com",
+      "title": "It's Still There: the Armory Fieldhouse and a Hidden Championship History –  Homefield",
+      "link": "https://www.homefieldapparel.com/blogs/cherry-pickin/cincinnati-basketball-armory-fieldhouse-cherry-pickin-newsletter",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlp_U4YWE4gZixNnEjRTV5KF6LG_Zjb59hg&usqp=CAU",
+      "original": "https://cdn.shopify.com/s/files/1/0009/0839/4551/articles/CP_week1_header_FNL_1600x.png?v=1641846108"
+    },
+    {
+      "position": 64,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEitHnT5Al1XqncrfMdTkgn5oVUMI1hklaA&usqp=CAU",
+      "original": "x-raw-image:///438752c9a79f6311076528c0304e5af286d41dd6bd60c0354d4469c130defa41"
+    },
+    {
+      "position": 65,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnRidCk5efmKWLBl1wqRgPtCjoyKDxM7WJg&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-mvxwDXF/0/0b773bda/S/hqdefault-S.jpg"
+    },
+    {
+      "position": 66,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCic-DmTKFHasqA9r5woSK7zFv8Sh2q40X0Q&usqp=CAU",
+      "original": "x-raw-image:///3e8a0b6a1014aa794e3da077026105b682fc92ef42a6aeb89b2ac5f526ee2ff4"
+    },
+    {
+      "position": 67,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, January 9, 1970. Vol. LVII,  No. 18.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_09.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-P83ByDcZZoc9P2E540AgJURKlz_EkMOxA&usqp=CAU",
+      "original": "x-raw-image:///6176fb202a91a032d39a2fb9c2f7091b8037b06ade541973460010f657339e98"
+    },
+    {
+      "position": 68,
+      "source": "magazine.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, May 8, 1970. Vol. LVII, No.  45.",
+      "link": "https://magazine.uc.edu/editors_picks/video/1970video/jcr%3Acontent/MainContent/download_1/file.res/1970_05_08.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAVhzbVji3uM6VWmMHCsXGowuCshS2hE3xA&usqp=CAU",
+      "original": "x-raw-image:///bb7a996f808f0854afdca4d628fffabb58377f96c55be05a3e194ce1258748b8"
+    },
+    {
+      "position": 69,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPj15mErZXX3bjOagzIaxCCQ56hSS-h29cqA&usqp=CAU",
+      "original": "x-raw-image:///e377d922c0efe5657f0de46d7a4ce717a64fad0949dfba85dbaedcfb6cd8b725"
+    },
+    {
+      "position": 70,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 28, 1970. Vol. LVII,  No. 42.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_28.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_822ti-Q5NyO5Qw1bpI8cyf84tfSbZi5EmA&usqp=CAU",
+      "original": "x-raw-image:///ec0f90cb4c3f742fe7e321339962e4ae0adc4b3ed924601787f97269d3f8574a"
+    },
+    {
+      "position": 71,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, April 7, 1970. Vol. LVII,  No. 36.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_04_07.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZD3cMcWpHJEKLUwqfJJRp37vB03cIAOJOGA&usqp=CAU",
+      "original": "x-raw-image:///b1865775ef1ff54a4a3a5e0b4af402df80a4780e74c98246671eb08a1bc08421"
+    },
+    {
+      "position": 72,
+      "source": "magazine.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, May 8, 1970. Vol. LVII, No.  45.",
+      "link": "https://magazine.uc.edu/editors_picks/video/1970video/jcr%3Acontent/MainContent/download_1/file.res/1970_05_08.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7NS-ABSkiqNclQocdiXkc1NGN9vrmTKQKQ&usqp=CAU",
+      "original": "x-raw-image:///2566ed7906073ba1bdf6ffeace79b5aeff1b64f0a3fc929fdd758f93911d634e"
+    },
+    {
+      "position": 73,
+      "source": "alchetron.com",
+      "title": "Armory Fieldhouse - Alchetron, The Free Social Encyclopedia",
+      "link": "https://alchetron.com/Armory-Fieldhouse",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXoBKMQZoXVJJWySKgEsoekEYKoaMyVDM-A&usqp=CAU",
+      "original": "https://alchetron.com/cdn/armory-fieldhouse-150d1a7d-3e72-4258-9371-072f8e7a3fe-resize-750.jpeg"
+    },
+    {
+      "position": 74,
+      "source": "magazine.uc.edu",
+      "title": "University of Cincinnati News Record. Friday, May 8, 1970. Vol. LVII, No.  45.",
+      "link": "https://magazine.uc.edu/editors_picks/video/1970video/jcr%3Acontent/MainContent/download_1/file.res/1970_05_08.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMZQg4a3oxq1iap_mPnUCu1dHL3n2Zh3tfA&usqp=CAU",
+      "original": "x-raw-image:///65a469e89198569404b6e49ce113871abc6212bf593d1592e78fe5d8dd9219a3"
+    },
+    {
+      "position": 75,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0mySovz306_XN2PntOFJVXXPvNju6MRhJA&usqp=CAU",
+      "original": "x-raw-image:///fffb2715fa69235c71a827d1ae3b896ca6b15fc104e4036ab762806071dcf547"
+    },
+    {
+      "position": 76,
+      "source": "alumni.uc.edu",
+      "title": "Class of 1970 | University Of Cincinnati",
+      "link": "https://alumni.uc.edu/campaigns/class-of-1970.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaj8lu7j7t774iUwMoLH1Aq0ENGKRqqcmDag&usqp=CAU",
+      "original": "https://alumni.uc.edu/campaigns/class-of-1970/_jcr_content/main/responsive_section_2_146682414/par/multi_image/image1.img.jpeg/1569265485144/ecsakmxjftdnqjtuqfkbsj.jpeg"
+    },
+    {
+      "position": 77,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbUW3fSrcIppW49KpekabMt7iuJI4IAkk9A&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-DTm8MKT/0/844f8b97/S/university-of-cincinnati-armory-fieldhouse-1954-1976-S.jpg"
+    },
+    {
+      "position": 78,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwv6QXHFULz61dEKazxi_NCyopBwGGdph4dQ&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-V8f9nG8/0/c40fdeaf/M/460370-M.jpg"
+    },
+    {
+      "position": 79,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgdfQF2qL7AvFTtmcU_ia4RGfXByC2f8LPw&usqp=CAU",
+      "original": "x-raw-image:///2a841f4276f6e3703de69a406f7121e28281a5591c0c9167cab8cb4f41eed01c"
+    },
+    {
+      "position": 80,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxuwiCfG5jqZvw8H115yjuaTRa5SGhZVsvg&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-mntBn8c/0/37feb204/M/img657-M.jpg"
+    },
+    {
+      "position": 81,
+      "source": "magazine.uc.edu",
+      "title": "UC Celebrates Basketball's Golden Age, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/1210/sports.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00mOhLfOO7DsqAQzBZbbDtQkFUaJ68fC4nQ&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/1210/sports4.jpg"
+    },
+    {
+      "position": 82,
+      "source": "mapcarta.com",
+      "title": "Armory Fieldhouse Map - Hamilton County, United States - Mapcarta",
+      "link": "https://mapcarta.com/21356554",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHwteKMo3g50quQyDTdBahRw3z-gxwAtSxA&usqp=CAU",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Campus_Green.jpg/4000px-Mapcarta.jpg"
+    },
+    {
+      "position": 83,
+      "source": "magazine.uc.edu",
+      "title": "UC Celebrates Basketball's Golden Age, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/1210/sports.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPnmIBVCj4AJtG1Z5-Q3CYadlNtqHeAj-1Q&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/1210/sports3.jpg"
+    },
+    {
+      "position": 84,
+      "source": "alumni.uc.edu",
+      "title": "Class of 1970 | University Of Cincinnati",
+      "link": "https://alumni.uc.edu/campaigns/class-of-1970.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJsCHmFOBLkj4xu_OT2LHCK2Wy2v2CiOVCDg&usqp=CAU",
+      "original": "https://alumni.uc.edu/campaigns/class-of-1970/_jcr_content/main/responsive_section_2_146682414/par/multi_image/image2.img.jpeg/1569265590300/abthe2skqmi6raeccbnei3izxa.jpeg"
+    },
+    {
+      "position": 85,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Tuesday, January 20, 1970. Vol. LVII,  No. 21.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1970/1970_01_20.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqaCR5wzBGGkFBHyBweNRw0v7YiNYCu4_x7g&usqp=CAU",
+      "original": "x-raw-image:///bba1d3c62094ad27878be214c60ff44d42e317ae09fb43f580c7cba9593974fb"
+    },
+    {
+      "position": 86,
+      "source": "homefieldapparel.com",
+      "title": "It's Still There: the Armory Fieldhouse and a Hidden Championship History –  Homefield",
+      "link": "https://www.homefieldapparel.com/blogs/cherry-pickin/cincinnati-basketball-armory-fieldhouse-cherry-pickin-newsletter",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWxKnaMUZWrzZXUok6No9LWIqeaQYWW9VbA&usqp=CAU",
+      "original": "https://i.shgcdn.com/c63b6735-a618-441e-8638-772696b95eed/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+    },
+    {
+      "position": 87,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pQTyNUzhPlBLzAfnUAJOm-2dj7MkKCkRLQ&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-MdvW45Q/3/85d524e1/M/DSC_6502-M.jpg"
+    },
+    {
+      "position": 88,
+      "source": "issuu.com",
+      "title": "Moeller High School 1994-95 Basketball Articles by Archbishop Moeller High  School - Issuu",
+      "link": "https://issuu.com/moellerhs/docs/basketballarticles_5fab645678debd",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTciHKzQ7mqWAua9zeRdtyY7QakvoF5WTKVtw&usqp=CAU",
+      "original": "https://image.isu.pub/180510180349-84db12ae79ad367e61746a05225fd40d/jpg/page_1.jpg"
+    },
+    {
+      "position": 89,
+      "source": "magazine.uc.edu",
+      "title": "UC Celebrates Basketball's Golden Age, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/1210/sports.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVhq66bLTf5YFHNR27pBgAyg2b_gu3c4S3w&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/1210/sports1.jpg"
+    },
+    {
+      "position": 90,
+      "source": "ballparks.smugmug.com",
+      "title": "University of Cincinnati, Armory Fieldhouse / Schmidlapp Gym - Cincinnati,  Ohio - Bob Busser",
+      "link": "https://ballparks.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFLmusoI7S2YFekxcc34fnuN4hjmgXu-VRw&usqp=CAU",
+      "original": "https://photos.smugmug.com/University-of-Cincinnati-Armory-Fieldhouse-Schmidlapp-Gym/i-LpHWB7z/0/57445b4a/L/u%20of%20cincinnati%201-L.jpg"
+    },
+    {
+      "position": 91,
+      "source": "alumni.uc.edu",
+      "title": "Class of 1971 | University Of Cincinnati",
+      "link": "https://alumni.uc.edu/campaigns/class-of-1971.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEj-HqEnANe52bpPrYp9__ITF6Al7qBozGg&usqp=CAU",
+      "original": "https://www.uc.edu/content/dam/refresh/alumni-62/connect/interest---affinity-groups/golden-bearcats/class-of-1971/delta-sigma-theta.PNG"
+    },
+    {
+      "position": 92,
+      "source": "magazine.uc.edu",
+      "title": "UC Celebrates Basketball's Golden Age, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/1210/sports.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAVy1OoiymhXzLLGlGm0Ik62o_tEqiDk1vg&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/1210/sports6.jpg"
+    },
+    {
+      "position": 93,
+      "source": "ippc2.orst.edu",
+      "title": "Townes Van Zandt Concert Appearances and Timeline",
+      "link": "http://ippc2.orst.edu/coopl/sched2/tvz60s70s.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPk5oDKUXFxeSRJ__2KFw8xat9ptoiGWh6g&usqp=CAU",
+      "original": "http://ippc2.orst.edu/coopl/sched2/clnoth/1970-04-17_Valparaiso_National_Guard_Armory_2.t.jpg"
+    },
+    {
+      "position": 94,
+      "source": "alchetron.com",
+      "title": "Armory Fieldhouse - Alchetron, The Free Social Encyclopedia",
+      "link": "https://alchetron.com/Armory-Fieldhouse",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6aEzEAE23xB5KW1S2Timx5TSrXk56zyUK1A&usqp=CAU",
+      "original": "https://alchetron.com/cdn/armory-fieldhouse-803a04d9-3295-4194-8121-2be65785de1-resize-750.jpeg"
+    },
+    {
+      "position": 95,
+      "source": "magazine.uc.edu",
+      "title": "UC Celebrates Basketball's Golden Age, University of Cincinnati",
+      "link": "https://magazine.uc.edu/issues/1210/sports.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7DVfW755wzU1wfgQ_En_62rnHHievadqTA&usqp=CAU",
+      "original": "https://magazine.uc.edu/content/dam/magazine/images/1210/sports2.jpg"
+    },
+    {
+      "position": 96,
+      "source": "mapcarta.com",
+      "title": "Armory Fieldhouse Map - Hamilton County, United States - Mapcarta",
+      "link": "https://mapcarta.com/21356554",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAT4hR2yZhQYwVjIRa5tr-kf5k9pEFQYmhuw&usqp=CAU",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bogarts-Corryville-Cincinnati.jpg/900px-Mapcarta.jpg"
+    },
+    {
+      "position": 97,
+      "source": "wwuvikings.com",
+      "title": "Carver Memories - March 2, 1960 - Vikings win regional, earn first trip to  hoop nationals - Western Washington University Athletics",
+      "link": "https://wwuvikings.com/news/2019/4/29/carver-memories-march-2-1960.aspx",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKI9E4a8TSv9Vi1XHL4w8wLV097gaJlNw9nA&usqp=CAU",
+      "original": "https://wwuvikings.com/images/2019/4/29/CarverMemories_MBB1960_Home.jpg"
+    },
+    {
+      "position": 98,
+      "source": "ippc2.orst.edu",
+      "title": "Townes Van Zandt Concert Appearances and Timeline",
+      "link": "http://ippc2.orst.edu/coopl/sched2/tvz60s70s.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Yac1y1K68sCqq9qtD68WItPdN-vE8OY-Yg&usqp=CAU",
+      "original": "http://ippc2.orst.edu/coopl/sched2/clnoth/1970-03-03_until_05-University_Of_Wisconsin-Milwaukee.t.jpg"
+    },
+    {
+      "position": 99,
+      "source": "digital.libraries.uc.edu",
+      "title": "University of Cincinnati News Record. Thursday, September 29, 1966. Vol.  LIIII, No. 1.",
+      "link": "https://digital.libraries.uc.edu/collections/newsrecord/1966/1966_09_29.pdf",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MzS6jiLVrHMtdQGCgQS56JIpacnv1mOJLg&usqp=CAU",
+      "original": "x-raw-image:///d84c4885478381a7664ba70b5f3c48d4d11ad2cd72fc63410bc7096adcebbbc1"
+    },
+    {
+      "position": 100,
+      "source": "magazine.uc.edu",
+      "title": "UC obituaries, University of Cincinnati",
+      "link": "https://magazine.uc.edu/editors_picks/obits.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKVrLIXMp0s1yB0W1Iiu8sD4b43UeF-0wpw&usqp=CAU",
+      "original": "https://magazine.uc.edu/editors_picks/obits/jcr%3Acontent/MainContent/textimage_12/image.img.jpg/1444306891281.jpg"
+    }
+  ]
+}

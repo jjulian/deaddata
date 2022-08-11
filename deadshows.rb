@@ -3,6 +3,19 @@
 require 'json'
 require 'date'
 
+require 'google_search_results'
+GoogleSearch.api_key = ENV["SERP_API_KEY"]
+query = "1970-04-03 April 03, 1970 Armory Fieldhouse, University of Cincinnati, Cincinnati, OH"
+search = GoogleSearch.new(
+    q: query, 
+    tbm: 'isch'
+)
+json_results = search.get_json
+File.write("#{query}-#{Time.now.to_i}.json", json_results)
+
+
+exit
+
 # https://github.com/MichaelAdamBerry/darkstar-project/tree/master/data
 data = JSON.parse(File.read('./gratefulSetlist.json'))
 data['setlists'].each do |show|
