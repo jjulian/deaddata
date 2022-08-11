@@ -15,7 +15,7 @@ require 'date'
 
 json_results = JSON.parse(File.read('./1970-04-03 April 03, 1970 Armory Fieldhouse, University of Cincinnati, Cincinnati, OH-1660186215.json'))
 json_results["images_results"].each do |image|
-    if image["source"] =~ /dead/
+    if image["source"] =~ /grateful|dead|jerrygarcia|liveforlivemusic|flickr/
         puts image["original"]
     end
 end
