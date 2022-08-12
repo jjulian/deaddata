@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     google_search_results (2.2.0)
+    rmagick (4.2.6)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   google_search_results
+  rmagick
 
 BUNDLED WITH
    1.17.2
