@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     google_search_results (2.2.0)
+    hashie (5.0.0)
     rmagick (4.2.6)
 
 PLATFORMS
@@ -9,6 +10,7 @@ PLATFORMS
 
 DEPENDENCIES
   google_search_results
+  hashie
   rmagick
 
 BUNDLED WITH
