@@ -1,12 +1,15 @@
 require 'json'
 require 'date'
 require './setlists'
-require 'create_dir_tree'
+require './create_dir_tree'
 require 'rmagick'
 include Magick
 
+data_dir = 'data'
+output_dir = 'out'
+
 # create the data dirs to hold the generated art
-create_dir_tree('out')
+create_dir_tree(output_dir)
 
 def generate(fnames)
   fnames = [
@@ -49,28 +52,22 @@ def generate(fnames)
 end
 
 # generate album art for search results
-if true
-  setlists = Setlists.new
-  setlists.each do |show|
-    date = Date.strptime(show.eventDate, '%d-%m-%Y')
-    catalog_date = "#{date.year}-#{'%02d' % date.month}-#{'%02d' % date.day}"
-    if date.year == 1975
-      data_dir = "data/#{date.year}/#{catalog_date}"
-      Dir.children(data_dir).each do |file|
-        puts catalog_date, file
-        json_results = JSON.parse(File.read("data/#{date.year}/#{catalog_date}/#{file}"))
-        json_results["images_results"].each do |image|
-          if image["source"] =~ /grateful|dead|jerrygarcia|liveforlivemusic|flickr/
-            puts image["original"]
-            # TODO generate album art
-          end
+setlists = Setlists.new
+setlists.each do |show|
+  date = Date.strptime(show.eventDate, '%d-%m-%Y')
+  catalog_date = "#{date.year}-#{'%02d' % date.month}-#{'%02d' % date.day}"
+  if date.year == 1975
+    full_data_dir = "#{data_dir}/#{date.year}/#{catalog_date}"
+    Dir.children(full_data_dir).each do |file|
+      puts catalog_date, file
+      json_results = JSON.parse(File.read("#{full_data_dir}/#{file}"))
+      json_results["images_results"].each do |image|
+        if image["source"] =~ /grateful|dead|jerrygarcia|liveforlivemusic|flickr/
+          puts image["original"]
+          # TODO generate album art
         end
       end
     end
   end
 end
-
-# TODO generate html for easy viewing
-
-
 
