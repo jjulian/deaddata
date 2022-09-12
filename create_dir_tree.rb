@@ -11,13 +11,15 @@ def create_dir_tree(prefix)
     years << date.year unless years.include?(date.year)
     years
   end.each do |year|
-    Dir.mkdir "#{prefix}/#{year}" unless File.exists?("#{prefix}/#{year}")
+    path = "#{prefix}/#{year}"
+    Dir.mkdir path unless File.exists?(path)
   end
 
   # create the individual show dirs
   setlists.each do |show|
     date = Date.strptime(show.eventDate, '%d-%m-%Y')
     catalog_date = "#{date.year}-#{'%02d' % date.month}-#{'%02d' % date.day}"
-    Dir.mkdir "#{prefix}/#{date.year}/#{catalog_date}" unless File.exists?("#{prefix}/#{date.year}/#{catalog_date}")
+    path = "#{prefix}/#{date.year}/#{catalog_date}"
+    Dir.mkdir path unless File.exists?(path)
   end
 end
